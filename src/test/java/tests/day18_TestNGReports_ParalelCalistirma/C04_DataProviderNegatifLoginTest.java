@@ -47,6 +47,7 @@ public class C04_DataProviderNegatifLoginTest {
 
         // sayfayi kapatin
         Driver.closeDriver();
+        System.out.println("");
     }
 }
 
